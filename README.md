@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Farhod 
-- 👀 I’m interested in programming leanguage Go and Js
+- 👀 I’m interested in programming language Go and Js
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
